@@ -1,12 +1,10 @@
+<!--top image-->
+![Github Banner](https://media.licdn.com/dms/image/v2/D5616AQFPW4avL_YWjQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736595015387?e=1742428800&v=beta&t=fXhw5ENvjjDhSF16vRaILqqM_NeekZDX6Nc6QyVxcsk)
 
-<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Dhanuji Ranasingha  </h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Dhanuji Ranasingha  </h1>
 I'm an undergraduate in the Information Technology and Management (ITM) program at the University of Moratuwa. I'm passionate about the world of technology and coding and I also enjoy capturing the world around me through photography.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@dhanujiranasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dhanujiranasingha" height="30" width="40" /></a>
-</p>
-
 <p align="left">
 <a href="https://medium.com/@dhanujiranasingha" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dhanujiranasingha" height="50" width="50" /></a>
