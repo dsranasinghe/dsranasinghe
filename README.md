@@ -1,12 +1,29 @@
-## Hi there 👋 I'm Dhanuji Ranasingha 
 
+<h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Dhanuji Ranasingha  </h1>
 I'm an undergraduate in the Information Technology and Management (ITM) program at the University of Moratuwa. I'm passionate about the world of technology and coding and I also enjoy capturing the world around me through photography.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@dhanujiranasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dhanujiranasingha" height="30" width="40" /></a>
 </p>
+
+<p align="left">
+<a href="https://medium.com/@dhanujiranasingha" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dhanujiranasingha" height="50" width="50" /></a>
+  
+<a href="https://www.linkedin.com/in/dhanuji-ranasingha/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Dhanuji Ranasingha" width="50" height="50" /></a>
+    
+  <a href="https://www.facebook.com/dhanuji.ranasingha.319" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dhanuji Ranasingha" width="50" height="50" /></a>
+    
+  <a href="https://www.instagram.com/sam_ranasinghe/" target="blank">
+    <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="Dhanuji Ranasingha"  width="50" height="50" /></a>
+    
+  <a href="https://www.hackerrank.com/profile/dhanujiranasing1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divya rathnayake" width="50" height="50" /></a>
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dsranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dhanuji" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
